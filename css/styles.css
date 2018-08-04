@@ -1,0 +1,19 @@
+#result {
+  display: none;
+}
+.container { 
+  text-align: center;
+  padding: 150px;
+  background-color: bisque;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.btn { 
+  border-radius: 30px;
+  background-color: brown;
+  color: azure;
+  margin: 30px;
+}
+#num { 
+  height: 40px;
+
+}
